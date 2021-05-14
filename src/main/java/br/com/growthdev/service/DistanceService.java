@@ -8,7 +8,7 @@ import static java.lang.Math.toRadians;
 
 
 import br.com.growthdev.entity.City;
-import br.com.growthdev.reposity.CityRepository;
+import br.com.growthdev.repository.CityRepository;
 import br.com.growthdev.utils.StringLocationUtils;
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package br.com.growthdev.reposity;
+package br.com.growthdev.repository;
 
 import br.com.growthdev.entity.Country;
 import org.springframework.data.jpa.repository.JpaRepository;

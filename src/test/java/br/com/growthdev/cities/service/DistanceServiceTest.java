@@ -6,7 +6,7 @@ import static org.mockito.ArgumentMatchers.anyList;
 import static org.mockito.BDDMockito.given;
 
 import br.com.growthdev.entity.City;
-import br.com.growthdev.reposity.CityRepository;
+import br.com.growthdev.repository.CityRepository;
 import java.util.Arrays;
 
 import br.com.growthdev.service.DistanceService;

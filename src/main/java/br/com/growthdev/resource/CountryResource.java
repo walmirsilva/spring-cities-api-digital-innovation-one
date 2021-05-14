@@ -1,7 +1,7 @@
 package br.com.growthdev.resource;
 
 import br.com.growthdev.entity.Country;
-import br.com.growthdev.reposity.CountryRepository;
+import br.com.growthdev.repository.CountryRepository;
 
 import java.util.List;
 import org.springframework.web.bind.annotation.GetMapping;

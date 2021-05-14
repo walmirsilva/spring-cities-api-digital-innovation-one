@@ -1,7 +1,7 @@
 package br.com.growthdev.resource;
 
 import br.com.growthdev.entity.State;
-import br.com.growthdev.reposity.StateRepository;
+import br.com.growthdev.repository.StateRepository;
 import java.util.List;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

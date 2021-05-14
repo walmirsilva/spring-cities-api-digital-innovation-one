@@ -1,6 +1,6 @@
 package br.com.growthdev.resource;
 
-import br.com.growthdev.reposity.CityRepository;
+import br.com.growthdev.repository.CityRepository;
 import br.com.growthdev.entity.City;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
